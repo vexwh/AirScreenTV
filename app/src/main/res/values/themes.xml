@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AirScreenTV" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/airscreen_background</item>
+        <item name="android:colorAccent">@color/airscreen_accent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

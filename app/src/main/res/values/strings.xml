@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AirScreen TV</string>
+    <string name="receiver_channel_name">AirScreen receiver</string>
+    <string name="receiver_channel_description">Keeps the AirScreen receiver discoverable on the local network.</string>
+    <string name="notification_title">AirScreen TV</string>
+    <string name="notification_starting">Starting the local receiver</string>
+    <string name="notification_waiting">Waiting for a network connection</string>
+    <string name="notification_listening">Listening on %1$s</string>
+    <string name="dashboard_waiting_network">Waiting for network</string>
+    <string name="dashboard_running">Receiver active</string>
+    <string name="dashboard_starting">Starting receiver</string>
+    <string name="dashboard_airplay">AirPlay</string>
+    <string name="dashboard_network">Network: %1$s</string>
+    <string name="dashboard_ready">Ready</string>
+    <string name="dashboard_off">Off</string>
+    <string name="dashboard_pin">PIN %1$s</string>
+    <string name="dashboard_pin_hint">Enter this PIN on your Apple device</string>
+    <string name="dashboard_session">Connected: %1$s</string>
+</resources>
